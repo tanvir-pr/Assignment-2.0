@@ -344,7 +344,7 @@ border: none;
 
 /*   box 2 er image */
 .p2-image-box2 {
-    margin: 50px 0px 0px 0px;
+    margin: 50px 0px 50px 0px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     /* border: 2px solid rgb(34, 133, 246); */
