@@ -1,5 +1,5 @@
 /*  midiam responsive */
-@media screen and (max-width: 992px) and (min-width: 576px) {
+@media screen and (max-width: 992px) and (min-width: 575px) {
     body {
         max-width: 100% auto;
     }
@@ -438,7 +438,25 @@
     display: none;
 }
 
+/* spcial box 5 */
 
+
+.part-s{
+   
+    padding: 20px 0px 70px 10px;
+   
+}
+.picture-s-box {
+    grid-template-columns: repeat(2 ,1fr);
+   
+   
+    padding: 0px 0px 0px 0px;
+}
+.box-s-1{
+    height: 150px;
+    width: 150px;
+    margin: 30px 0px 0px 0px;
+}
 
 
 
