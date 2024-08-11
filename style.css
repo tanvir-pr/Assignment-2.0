@@ -14,9 +14,16 @@
     font-family: Miama;
     src: url(Miama.ttf);
 }
-
+/* * { border: 1px solid red;}
+ body { border: 5px dashed green;} */
 img {
     max-width: 100%;
+}
+body {
+    max-width: 100% auto;
+   
+    padding: 0px;
+    margin: 0px;
 }
 
 /* NAV BAR */
@@ -167,8 +174,9 @@ border: none;
     background: rgb(230, 83, 60);
     width: 200px;
     height: 43px;
+    margin: 0px 10px 0px 0px;
 
-    margin: 0px 0px;
+   
 
 
     color: rgb(255, 255, 255);
@@ -290,7 +298,9 @@ border: none;
 /*  part 2 suru */
 /* box-2 er content */
 .main {
-    background: rgb(7, 0, 0);
+    background: rgb(0, 0, 0);
+    
+   
 }
 
 .part-2 {
@@ -559,8 +569,9 @@ border: none;
 
     width: 275px;
     height: 170px;
+   
 
-    margin: 0px 0px 0px -0px;
+    margin: 0px 0px 0px -10px;
     padding: 0px 0px 0px 0px;
     /* border: 1px solid rgb(17, 0, 255); */
 
@@ -612,7 +623,7 @@ border: none;
     width: 320px;
     height: 170px;
 
-    margin: 0px 0px 0px -45px;
+    margin: 0px 0px 0px -54px;
     padding: 0px 0px 0px 0px;
     /* border: 1px solid rgb(4, 41, 250); */
 }

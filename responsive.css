@@ -2,6 +2,9 @@
 @media screen and (max-width: 992px) and (min-width: 575px) {
     body {
         max-width: 100% auto;
+       
+        padding: 0px;
+        margin: 0px;
     }
 
     /* page 1 */
@@ -155,6 +158,26 @@
     }
 
 
+    /* spcial box 5 */
+
+
+.part-s{
+   
+    padding: 20px 0px 70px 10px;
+   
+}
+.picture-s-box {
+    grid-template-columns: repeat(2 ,1fr);
+   
+   
+    padding: 0px 0px 0px 0px;
+}
+.box-s-1{
+    height: 250px;
+    width: 250px;
+    margin: 30px 0px 0px 0px;
+}
+
 
     /* page 6 suru  */
     .part-6 {
@@ -242,6 +265,14 @@
 @media screen and (max-width: 576px) and (min-width: 100px) {
 
 
+
+    body {
+        max-width: 100% auto;
+       
+        padding: 0px;
+        margin: 0px;
+    }
+
     /*                page 1 */
     .navbar {
         padding: 40px 0px 0px 30px;
@@ -295,22 +326,26 @@
     .p1-button-1 {}
 
     .p1-button-2 {}
+    .p1-image-box {
+       max-width: 400px;
+    }
 
     .p1-image-box1 {
-        margin: 0px 150px 90px 130px;
-
+        margin: 0px 0px 90px 70px;
+       
     }
 
     .absolute1 {
-        width: 175px;
+        width: 170px;
         height: 90px;
-        margin: -548px 0px 250px 305px;
+        margin: -548px 0px 250px 235px;
+       
     }
 
     .absolute2 {
         width: 175px;
         height: 90px;
-        margin: -180px 0px 260px 120px;
+        margin: -180px 0px 260px 79px;
     }
 
 
