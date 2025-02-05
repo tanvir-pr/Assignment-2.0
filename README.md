@@ -1,9 +1,3 @@
-Here's the **enhanced README.md** file for your **Fitness Website**, following all your required points. 🚀  
-
----
-
-### **📄 README.md**
-```md
 # 🏋️ Fitness Website  
 
 ![Fitness Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
@@ -39,25 +33,25 @@ Follow these steps to run the project on your local machine:
 1. **Clone this repository:**  
    ```sh
    git clone https://github.com/your-username/your-repo.git
-   ```
-2. **Navigate to the project folder:**  
-   ```sh
-   cd your-repo
-   ```
-3. **Open `index.html` in your browser.**  
+Navigate to the project folder:
+sh
+Copy
+Edit
+cd your-repo
+Open index.html in your browser.
+🌎 Live Project & Resources
+🔗 Live Project: View Here
+📁 GitHub Repository: Repo Link
+🌐 Portfolio: your-portfolio.com
 
-## 🌎 Live Project & Resources  
-🔗 **Live Project:** [View Here](https://your-live-project-link.com)  
-📁 **GitHub Repository:** [Repo Link](https://github.com/your-username/your-repo)  
-🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+📞 Contact
+📧 Email: your-email@example.com
 
-## 📞 Contact  
-📧 **Email:** your-email@example.com  
+⭐ If you like this project, don't forget to star this repository! 🚀
 
----
-
-⭐ **If you like this project, don't forget to star this repository!** 🚀  
-```
+yaml
+Copy
+Edit
 
 ---
 
